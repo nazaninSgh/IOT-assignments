@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GPS map positioning</string>
+    <string name="title">GPS map positioning</string>
+    <string name="action_settings">Settings</string>
+    <string name="access_token">pk.eyJ1IjoibnNhcnJhZnphZGUiLCJhIjoiY2tiOTVvY2FlMDZkMzJ4cjF5bngxbXJjbiJ9.O6RkglpBA1rnlRXDkAOdmg</string>
+    <string name="stnum">95521252</string>
+    <string name="student">Nazanin Sarrafzade</string>
+    <string name="dialog_message">GPS is not enabled. Do you want to navigate to settings menu?</string>
+    <string name="explanation">This application shows the state of your phone signal while moving on the map so you can find blind spots and avoid bad service</string>
+</resources>
